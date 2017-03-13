@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random star wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwilsonq/starwarsNames.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Ian Wilson <iwilsonq@gmail.com> (http://www.thestoicdeveloper.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwilsonq/starwarsNames/issues"
+  },
+  "homepage": "https://github.com/iwilsonq/starwarsNames#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
